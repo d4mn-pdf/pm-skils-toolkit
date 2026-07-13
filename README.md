@@ -153,16 +153,3 @@ If you use **Amazon Bedrock**, see:
 - [evals/frameworks/bedrock-eval-guide.md](./evals/frameworks/bedrock-eval-guide.md) – run evals with Bedrock
 
 ---
-
-## 🤝 Contributing
-
-This toolkit is open for contributions. See [CONTRIBUTING.md](CONTRIBUTING.md) for where to add scripts, prompts, and templates so the repo stays easy to navigate. Then open a PR.
-
-## 📄 License
-
-MIT License - Use freely, and attribution appreciated.
-
----
-
-Built for Product Managers navigating the AI era. 🧠
-
